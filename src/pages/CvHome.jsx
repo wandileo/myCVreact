@@ -7,6 +7,7 @@ import Personality from "../components/Personality";
 import Connect from "../components/Connect";
 import Footer from "../components/Footer";
 import Copyright from "../components/Copyright";
+import Modals from "../components/Modals";
 
 const CvHome = () => {
   return (
@@ -19,6 +20,7 @@ const CvHome = () => {
       <Connect />
       <Footer />
       <Copyright />
+      <Modals />
 
     </div>
   );
