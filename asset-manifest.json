@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myCVreact/static/css/main.855fb438.css",
-    "main.js": "/myCVreact/static/js/main.cb074a0f.js",
+    "main.js": "/myCVreact/static/js/main.1a1cb5f5.js",
     "index.html": "/myCVreact/index.html",
     "main.855fb438.css.map": "/myCVreact/static/css/main.855fb438.css.map",
-    "main.cb074a0f.js.map": "/myCVreact/static/js/main.cb074a0f.js.map"
+    "main.1a1cb5f5.js.map": "/myCVreact/static/js/main.1a1cb5f5.js.map"
   },
   "entrypoints": [
     "static/css/main.855fb438.css",
-    "static/js/main.cb074a0f.js"
+    "static/js/main.1a1cb5f5.js"
   ]
 }
