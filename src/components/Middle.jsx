@@ -6,8 +6,7 @@ const Middle = () => {
       <div className="container d-flex align-items-center flex-column">
             <img className="rounded-circle" src="https://avatars.githubusercontent.com/u/57521204?v=4" alt="..."
                 width="20%" />
-          
-            {/* <br> */}
+        
             <h1 className="masthead-heading text-uppercase mb-0">Wandile Maluleke</h1>
             
             <div className="divider-custom divider-light">

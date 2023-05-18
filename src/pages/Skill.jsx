@@ -1,8 +1,16 @@
 import React from 'react'
+import Navbar from "../components/Navbar";
+import Portfolio from "../components/Portfolio";
 
 const Skill = () => {
   return (
-    <div>Skill</div>
+    <div>
+    <Navbar />
+    <br />
+    <br />
+    <Portfolio />
+
+    </div>
   )
 }
 
