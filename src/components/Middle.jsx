@@ -2,7 +2,7 @@ import React from 'react'
 
 const Middle = () => {
   return (
-    <div className="masthead bg-primary text-white text-center">
+    <div className="masthead bg-secondary text-white text-center">
       <div className="container d-flex align-items-center flex-column">
             <img className="rounded-circle" src="https://avatars.githubusercontent.com/u/57521204?v=4" alt="..."
                 width="20%" />

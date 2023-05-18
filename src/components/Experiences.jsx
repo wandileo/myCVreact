@@ -2,7 +2,7 @@ import React from 'react'
 
 const Experiences = () => {
   return (
-    <div className="page-section bg-primary text-white mb-0" id="workplace">
+    <div className="page-section bg-secondary text-white mb-0" id="workplace">
         <div className="container"></div>
         <h2 className="page-section-heading text-center text-uppercase text-white">Workplace Experiences:</h2>
         <div className="divider-custom divider-light">
