@@ -5,6 +5,7 @@ import Portfolio from "../components/Portfolio";
 import Experiences from "../components/Experiences";
 import Personality from "../components/Personality";
 import Connect from "../components/Connect";
+import Footer from "../components/Footer";
 
 const CvHome = () => {
   return (
@@ -15,6 +16,7 @@ const CvHome = () => {
       <Experiences />
       <Personality />
       <Connect />
+      <Footer />
 
     </div>
   );
