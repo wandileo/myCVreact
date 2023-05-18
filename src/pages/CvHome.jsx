@@ -4,7 +4,7 @@ import Middle from "../components/Middle";
 import Portfolio from "../components/Portfolio";
 import Experiences from "../components/Experiences";
 import Personality from "../components/Personality";
-// import Connect from "../components/Connect";
+import Connect from "../components/Connect";
 
 const CvHome = () => {
   return (
@@ -14,7 +14,7 @@ const CvHome = () => {
       <Portfolio />
       <Experiences />
       <Personality />
-      {/* <Connect /> */}
+      <Connect />
 
     </div>
   );
